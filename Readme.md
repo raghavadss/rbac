@@ -43,7 +43,7 @@ This is a basic CLI tool for  Role-Based Access Control using in-memory objects 
 
 
 ## ER Diagram
-
+![ER Diagram](/images/image1.png)
 
 ## How to Run
 
